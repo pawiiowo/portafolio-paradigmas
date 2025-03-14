@@ -1,5 +1,4 @@
 +++
-date = '2025-02-21T10:18:14-08:00'
 draft = false
 title = 'Practica 0:  Uso de repositorios'
 summary = 'Reporte de la practica 0'
