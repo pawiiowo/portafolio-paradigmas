@@ -23,7 +23,7 @@ Este reporte muestra mi proceso de aprendizaje sobre cómo utilizar Markdown, Hu
 ## Aprendiendo Markdown
 Markdown es un lenguaje de marcado ligero que permite formatear texto de manera sencilla. Exploré conceptos básicos como encabezados, listas, enlaces, imágenes, código, negritas y cursivas. Estos conceptos me permitieron estructurar el contenido de mi página web de manera clara y eficiente.
 
-# Test de Markdown
+#### Test de Markdown
 
 <!--esto es un comentario-->
 
@@ -111,7 +111,6 @@ const test = ()
   
 <!--Menciones-->
 @pawiiowo : +1 :smile:
-
 
 ## Configuración de Hugo
 Hugo es un generador de sitios estáticos rápido y flexible. Primero, instalé Hugo en mi sistema operativo. Luego, usé el comando `hugo new site` para generar la estructura básica del sitio. Después, elegí un tema de Hugo y lo agregué a mi proyecto. Por último, creé contenido usando el comando `hugo new posts/---.md`. Hugo me permitió generar un sitio web estático de manera rápida y sencilla, con la posibilidad de personalizar el diseño y la estructura.
