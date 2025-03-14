@@ -23,6 +23,96 @@ Este reporte muestra mi proceso de aprendizaje sobre cómo utilizar Markdown, Hu
 ## Aprendiendo Markdown
 Markdown es un lenguaje de marcado ligero que permite formatear texto de manera sencilla. Exploré conceptos básicos como encabezados, listas, enlaces, imágenes, código, negritas y cursivas. Estos conceptos me permitieron estructurar el contenido de mi página web de manera clara y eficiente.
 
+# Test de Markdown
+
+<!--esto es un comentario-->
+
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+
+<!--Italicas-->
+Este es un texto en "italicas"
+
+Este es un tetxo en _italicas_
+
+<!--Negritas-->
+Esto es un texto en **negritas**
+
+Esto es un texto en __negritas__
+
+<!--Rayado-->
+
+Esto es un texto ~~rayado~~
+
+<!--UL-->
+
+* Elemento 1
+* Elemento 2
+* Elemento 3
+* * Elemento 3.1
+* * Elemento 3.2
+* Elemento 4
+  
+<!--OL-->
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+   1. Elemento 3.1
+   2. Elemento 3.2
+4. Elemento 4
+
+<!--Enlaces-->
+[UABC](www.uabc.mx)
+
+[UABC](www.uabc.mx "Titulo personalizado")
+<!--Imagenes-->
+![chiwawa]![alt text](Chihuahua.jpg)
+
+![chiwawa](estupido.jpg)
+
+<!--Bloques de codigo-->
+```
+Esto es un bloque de codigo
+Esta es la segunda linea del bloque de codigo
+```
+
+```python
+print("Hello world!")
+```
+
+```javascript
+consloge.log("hello world")
+
+const test = ()
+```
+
+```html
+<h1>Hello World</h1>
+```
+
+<!--Tablas--->
+| Productos | Precio | Cantidad |
+| - | - | - |
+| Laptop | 3.33 | 2 |
+| Mouse | 10.33 | 1 |
+
+| Productos | Precio | Cantidad |
+| --------- | ------ | -------- |
+| Laptop    | 10.33  | 1        |
+
+<!--Tareas-->
+* [x] Primera tarea
+* [ ] Segunda tarea
+* [ ] Tercera tarea
+* [x] Cuarta tarea
+  
+<!--Menciones-->
+@pawiiowo : +1 :smile:
+
+
 ## Configuración de Hugo
 Hugo es un generador de sitios estáticos rápido y flexible. Primero, instalé Hugo en mi sistema operativo. Luego, usé el comando `hugo new site` para generar la estructura básica del sitio. Después, elegí un tema de Hugo y lo agregué a mi proyecto. Por último, creé contenido usando el comando `hugo new posts/---.md`. Hugo me permitió generar un sitio web estático de manera rápida y sencilla, con la posibilidad de personalizar el diseño y la estructura.
 

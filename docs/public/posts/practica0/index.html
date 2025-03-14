@@ -48,7 +48,7 @@
   <meta itemprop="description" content="Reporte de la practica 0">
   <meta itemprop="datePublished" content="2025-02-21T10:18:14-08:00">
   <meta itemprop="dateModified" content="2025-02-21T10:18:14-08:00">
-  <meta itemprop="wordCount" content="597">
+  <meta itemprop="wordCount" content="718">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Practica 0:  Uso de repositorios">
   <meta name="twitter:description" content="Reporte de la practica 0">
@@ -117,6 +117,99 @@
 <p>Este reporte muestra mi proceso de aprendizaje sobre cómo utilizar Markdown, Hugo, Git y GitHub Actions para crear y desplegar una página web estática. A través de este proceso, he adquirido conocimientos sobre la creación de contenido con Markdown, la gestión de versiones con Git, la generación de sitios web estáticos con Hugo, y la automatización de despliegues con GitHub Actions.</p>
 <h2 id="aprendiendo-markdown">Aprendiendo Markdown</h2>
 <p>Markdown es un lenguaje de marcado ligero que permite formatear texto de manera sencilla. Exploré conceptos básicos como encabezados, listas, enlaces, imágenes, código, negritas y cursivas. Estos conceptos me permitieron estructurar el contenido de mi página web de manera clara y eficiente.</p>
+<h1 id="test-de-markdown">Test de Markdown</h1>
+<h1 id="encabezado-1">Encabezado 1</h1>
+<h2 id="encabezado-2">Encabezado 2</h2>
+<h3 id="encabezado-3">Encabezado 3</h3>
+<h4 id="encabezado-4">Encabezado 4</h4>
+<h5 id="encabezado-5">Encabezado 5</h5>
+<p>Este es un texto en &ldquo;italicas&rdquo;</p>
+<p>Este es un tetxo en <em>italicas</em></p>
+<p>Esto es un texto en <strong>negritas</strong></p>
+<p>Esto es un texto en <strong>negritas</strong></p>
+<p>Esto es un texto <del>rayado</del></p>
+<ul>
+<li>Elemento 1</li>
+<li>Elemento 2</li>
+<li>Elemento 3</li>
+<li>
+<ul>
+<li>Elemento 3.1</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Elemento 3.2</li>
+</ul>
+</li>
+<li>Elemento 4</li>
+</ul>
+<ol>
+<li>Elemento 1</li>
+<li>Elemento 2</li>
+<li>Elemento 3
+<ol>
+<li>Elemento 3.1</li>
+<li>Elemento 3.2</li>
+</ol>
+</li>
+<li>Elemento 4</li>
+</ol>
+<p><a href="www.uabc.mx">UABC</a></p>
+<p><a href="www.uabc.mx" title="Titulo personalizado">UABC</a></p>
+<p>![chiwawa]<img src="Chihuahua.jpg" alt="alt text"></p>
+<p><img src="estupido.jpg" alt="chiwawa"></p>
+<pre tabindex="0"><code>Esto es un bloque de codigo
+Esta es la segunda linea del bloque de codigo
+</code></pre><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>print(<span style="color:#e6db74">&#34;Hello world!&#34;</span>)
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">consloge</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;hello world&#34;</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">test</span> <span style="color:#f92672">=</span> ()
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">h1</span>&gt;Hello World&lt;/<span style="color:#f92672">h1</span>&gt;
+</span></span></code></pre></div><table>
+  <thead>
+      <tr>
+          <th>Productos</th>
+          <th>Precio</th>
+          <th>Cantidad</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Laptop</td>
+          <td>3.33</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td>Mouse</td>
+          <td>10.33</td>
+          <td>1</td>
+      </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+      <tr>
+          <th>Productos</th>
+          <th>Precio</th>
+          <th>Cantidad</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Laptop</td>
+          <td>10.33</td>
+          <td>1</td>
+      </tr>
+  </tbody>
+</table>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Primera tarea</li>
+<li><input disabled="" type="checkbox"> Segunda tarea</li>
+<li><input disabled="" type="checkbox"> Tercera tarea</li>
+<li><input checked="" disabled="" type="checkbox"> Cuarta tarea</li>
+</ul>
+<p>@pawiiowo : +1 :smile:</p>
 <h2 id="configuración-de-hugo">Configuración de Hugo</h2>
 <p>Hugo es un generador de sitios estáticos rápido y flexible. Primero, instalé Hugo en mi sistema operativo. Luego, usé el comando <code>hugo new site</code> para generar la estructura básica del sitio. Después, elegí un tema de Hugo y lo agregué a mi proyecto. Por último, creé contenido usando el comando <code>hugo new posts/---.md</code>. Hugo me permitió generar un sitio web estático de manera rápida y sencilla, con la posibilidad de personalizar el diseño y la estructura.</p>
 <h2 id="uso-de-git-y-github">Uso de Git y GitHub</h2>
