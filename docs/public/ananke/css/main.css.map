@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/airpl/Documents/4to semestre/Paradigmas/portafolio real/docs",
+	"sourceRoot": "C:/Users/airpl/Documents/4to semestre/Paradigmas/portafolio-paradigmas/docs",
 	"sources": [
 		"ananke/css/main.css"
 	],
