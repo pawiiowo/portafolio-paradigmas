@@ -5,8 +5,8 @@ title = 'Practica 0:  Uso de repositorios'
 summary = 'Reporte de la practica 0'
 +++
 
-![Logo de la escuela](images/logouabc.png){width=150px}
-![Logo de la facultad](images/logofiad.png){width=150px}
+![Logo de la escuela](images/logouabc.png)
+![Logo de la facultad](images/logofiad.png)
 
 # Universidad Autónoma de Baja California
 ## Facultad de Ingeniería, Arquitectura y Diseño
