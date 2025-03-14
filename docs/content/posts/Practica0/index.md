@@ -5,20 +5,17 @@ title = 'Practica 0:  Uso de repositorios'
 summary = 'Reporte de la practica 0'
 +++
 
+![Logo de la escuela](images/logouabc.png){width=150px}
+![Logo de la facultad](images/logofiad.png){width=150px}
 
-<div style="text-align: center;">
-  <img src="images/logouabc.png" alt="Logo de la escuela" style="width: 150px; height: auto;">
-  <img src="images/logofiad.png" alt="Logo de la facultad" style="width: 150px; height: auto;">
+# Universidad Autónoma de Baja California
+## Facultad de Ingeniería, Arquitectura y Diseño
+### Paradigmas de la Programación
 
-  <h1>Universidad Autónoma de Baja California</h1>
-  <h2>Facultad de Ingeniería, Arquitectura y Diseño</h2>
-  <h3>Paradigmas de la Programación</h3>
-
-  <p><strong>Nombre del alumno:</strong> Paulina Mendoza Quiroz</p>
-  <p><strong>Matrícula:</strong> 372532</p>
-  <p><strong>Grupo:</strong> 941</p>
-  <p><strong>Fecha:</strong> 14 de Marzo del 2025</p>
-</div>
+**Nombre del alumno:** Paulina Mendoza Quiroz  
+**Matrícula:** 372532  
+**Grupo:** 941  
+**Fecha:** 14 de Marzo del 2025
 
 # Práctica 0: Uso de repositorios
 
