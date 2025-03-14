@@ -17,8 +17,6 @@ summary = 'Reporte de la practica 0'
 **Grupo:** 941  
 **Fecha:** 14 de Marzo del 2025
 
-# Práctica 0: Uso de repositorios
-
 ## Introducción
 Este reporte muestra mi proceso de aprendizaje sobre cómo utilizar Markdown, Hugo, Git y GitHub Actions para crear y desplegar una página web estática. A través de este proceso, he adquirido conocimientos sobre la creación de contenido con Markdown, la gestión de versiones con Git, la generación de sitios web estáticos con Hugo, y la automatización de despliegues con GitHub Actions.
 
