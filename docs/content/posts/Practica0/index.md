@@ -1,8 +1,7 @@
 +++
-date = '2025-03-14T10:18:14-08:00'
 draft = false
 title = 'Practica 0:  Uso de repositorios'
-summary = 'Reporte de la practica 0'
+summary = 'Reporte de la Practica 0'
 +++
 
 ![Logo de la escuela](images/logouabc.png)

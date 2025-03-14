@@ -1,12 +1,11 @@
 +++
-date = '2025-03-14T10:18:14-08:00'
 draft = false
 title = 'Practica 1: Elementos básicos de los lenguajes de programación'
-summary = 'Reporte de la practica 1'
+summary = 'Reporte de la Practica 1'
 +++
 
-![Logo de la escuela](images/logouabc.png){width=150px}
-![Logo de la facultad](images/logofiad.png){width=150px}
+![Logo de la escuela](images/logouabc.png)
+![Logo de la facultad](images/logofiad.png)
 
 # Universidad Autónoma de Baja California
 ## Facultad de Ingeniería, Arquitectura y Diseño

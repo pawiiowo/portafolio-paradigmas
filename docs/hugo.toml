@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'pawii's page !'
+title = "pawii's page !"
 theme = 'ananke'
 [params]
     showsummary = 'true'

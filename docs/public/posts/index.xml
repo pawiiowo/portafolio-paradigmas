@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on pawii&#39;s page !</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on pawii&#39;s page !</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2025 10:18:14 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 10:18:14 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practica 0:  Uso de repositorios</title>
       <link>http://localhost:1313/posts/practica0/</link>
-      <pubDate>Fri, 21 Feb 2025 10:18:14 -0800</pubDate>
+      <pubDate>Fri, 14 Mar 2025 10:18:14 -0800</pubDate>
       <guid>http://localhost:1313/posts/practica0/</guid>
       <description>Reporte de la practica 0</description>
     </item>
     <item>
       <title>Practica 1: Elementos básicos de los lenguajes de programación</title>
       <link>http://localhost:1313/posts/practica1/</link>
-      <pubDate>Fri, 21 Feb 2025 10:18:14 -0800</pubDate>
+      <pubDate>Fri, 14 Mar 2025 10:18:14 -0800</pubDate>
       <guid>http://localhost:1313/posts/practica1/</guid>
       <description>Reporte de la practica 1</description>
     </item>
