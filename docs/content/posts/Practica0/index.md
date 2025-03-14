@@ -71,7 +71,6 @@ Esto es un texto ~~rayado~~
 <!-- Imágenes -->
 ![chiwawa](images/Chihuahua.jpg)
 ![chiwawa](images/estupido.jpg)
-
 <!--Bloques de codigo-->
 ```
 Esto es un bloque de codigo
