@@ -68,11 +68,9 @@ Esto es un texto ~~rayado~~
 [UABC](www.uabc.mx)
 
 [UABC](www.uabc.mx "Titulo personalizado")
-<!--Imagenes-->
-![chiwawa]![alt text](Chihuahua.jpg)
-
-![chiwawa](estupido.jpg)
-
+<!-- Imágenes -->
+![chiwawa](/images/Chihuahua.jpg)
+![chiwawa](/images/estupido.jpg)
 <!--Bloques de codigo-->
 ```
 Esto es un bloque de codigo
