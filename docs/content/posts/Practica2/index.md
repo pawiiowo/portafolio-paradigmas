@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'Practica 1: Elementos básicos de los lenguajes de programación'
+title = 'Practica 2: Programa de Biblioteca'
 summary = 'Reporte de la Practica 2'
 +++
 
