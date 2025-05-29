@@ -1,2 +1,10 @@
- public/
- *.lock
+.vscode/
+env/
+__pycache__/
+public/
+*.lock
+build/
+library.txt
+members.txt
+library.json
+members.json
